@@ -121,28 +121,28 @@ GAZER is evaluated on compositional image and video benchmarks, including **T2I-
 <tbody>
 <tr>
 <td><em>A cat pushes a ball toward a puppy</em></td>
-<td><video src="./assets/showcase/video/infinitystar/cat_pushes_ball_puppy_baseline.mp4" width="220" controls muted loop playsinline></video></td>
-<td><video src="./assets/showcase/video/infinitystar/cat_pushes_ball_puppy_ours.mp4" width="220" controls muted loop playsinline></video></td>
+<td><a href="./assets/showcase/video/infinitystar/cat_pushes_ball_puppy_baseline.mp4"><img src="./assets/showcase/gif/infinitystar/cat_pushes_ball_puppy_baseline.gif" width="220"></a></td>
+<td><a href="./assets/showcase/video/infinitystar/cat_pushes_ball_puppy_ours.mp4"><img src="./assets/showcase/gif/infinitystar/cat_pushes_ball_puppy_ours.gif" width="220"></a></td>
 </tr>
 <tr>
 <td><em>A dog chases after a balloon drifting in the wind</em></td>
-<td><video src="./assets/showcase/video/infinitystar/dog_chases_balloon_baseline.mp4" width="220" controls muted loop playsinline></video></td>
-<td><video src="./assets/showcase/video/infinitystar/dog_chases_balloon_ours.mp4" width="220" controls muted loop playsinline></video></td>
+<td><a href="./assets/showcase/video/infinitystar/dog_chases_balloon_baseline.mp4"><img src="./assets/showcase/gif/infinitystar/dog_chases_balloon_baseline.gif" width="220"></a></td>
+<td><a href="./assets/showcase/video/infinitystar/dog_chases_balloon_ours.mp4"><img src="./assets/showcase/gif/infinitystar/dog_chases_balloon_ours.gif" width="220"></a></td>
 </tr>
 <tr>
 <td><em>A dog runs through a field while a cat climbs a tree</em></td>
-<td><video src="./assets/showcase/video/infinitystar/dog_field_cat_tree_baseline.mp4" width="220" controls muted loop playsinline></video></td>
-<td><video src="./assets/showcase/video/infinitystar/dog_field_cat_tree_ours.mp4" width="220" controls muted loop playsinline></video></td>
+<td><a href="./assets/showcase/video/infinitystar/dog_field_cat_tree_baseline.mp4"><img src="./assets/showcase/gif/infinitystar/dog_field_cat_tree_baseline.gif" width="220"></a></td>
+<td><a href="./assets/showcase/video/infinitystar/dog_field_cat_tree_ours.mp4"><img src="./assets/showcase/gif/infinitystar/dog_field_cat_tree_ours.gif" width="220"></a></td>
 </tr>
 <tr>
 <td><em>A girl is blowing bubbles in the yard, while a puppy is jumping</em></td>
-<td><video src="./assets/showcase/video/infinitystar/girl_bubbles_puppy_baseline.mp4" width="220" controls muted loop playsinline></video></td>
-<td><video src="./assets/showcase/video/infinitystar/girl_bubbles_puppy_ours.mp4" width="220" controls muted loop playsinline></video></td>
+<td><a href="./assets/showcase/video/infinitystar/girl_bubbles_puppy_baseline.mp4"><img src="./assets/showcase/gif/infinitystar/girl_bubbles_puppy_baseline.gif" width="220"></a></td>
+<td><a href="./assets/showcase/video/infinitystar/girl_bubbles_puppy_ours.mp4"><img src="./assets/showcase/gif/infinitystar/girl_bubbles_puppy_ours.gif" width="220"></a></td>
 </tr>
 <tr>
 <td><em>A girl walks beside a white horse</em></td>
-<td><video src="./assets/showcase/video/infinitystar/girl_white_horse_baseline.mp4" width="220" controls muted loop playsinline></video></td>
-<td><video src="./assets/showcase/video/infinitystar/girl_white_horse_ours.mp4" width="220" controls muted loop playsinline></video></td>
+<td><a href="./assets/showcase/video/infinitystar/girl_white_horse_baseline.mp4"><img src="./assets/showcase/gif/infinitystar/girl_white_horse_baseline.gif" width="220"></a></td>
+<td><a href="./assets/showcase/video/infinitystar/girl_white_horse_ours.mp4"><img src="./assets/showcase/gif/infinitystar/girl_white_horse_ours.gif" width="220"></a></td>
 </tr>
 </tbody>
 </table>
@@ -160,18 +160,18 @@ GAZER is evaluated on compositional image and video benchmarks, including **T2I-
 <tbody>
 <tr>
 <td><em>A cat sits on a windowsill and a dog plays in the yard</em></td>
-<td><video src="./assets/showcase/video/helios/cat_windowsill_dog_yard_baseline.mp4" width="220" controls muted loop playsinline></video></td>
-<td><video src="./assets/showcase/video/helios/cat_windowsill_dog_yard_ours.mp4" width="220" controls muted loop playsinline></video></td>
+<td><a href="./assets/showcase/video/helios/cat_windowsill_dog_yard_baseline.mp4"><img src="./assets/showcase/gif/helios/cat_windowsill_dog_yard_baseline.gif" width="220"></a></td>
+<td><a href="./assets/showcase/video/helios/cat_windowsill_dog_yard_ours.mp4"><img src="./assets/showcase/gif/helios/cat_windowsill_dog_yard_ours.gif" width="220"></a></td>
 </tr>
 <tr>
 <td><em>A kangaroo bounds across the plain and a cow grazes</em></td>
-<td><video src="./assets/showcase/video/helios/kangaroo_cow_baseline.mp4" width="220" controls muted loop playsinline></video></td>
-<td><video src="./assets/showcase/video/helios/kangaroo_cow_ours.mp4" width="220" controls muted loop playsinline></video></td>
+<td><a href="./assets/showcase/video/helios/kangaroo_cow_baseline.mp4"><img src="./assets/showcase/gif/helios/kangaroo_cow_baseline.gif" width="220"></a></td>
+<td><a href="./assets/showcase/video/helios/kangaroo_cow_ours.mp4"><img src="./assets/showcase/gif/helios/kangaroo_cow_ours.gif" width="220"></a></td>
 </tr>
 <tr>
 <td><em>Dog snatches a rolling ball</em></td>
-<td><video src="./assets/showcase/video/helios/dog_snatches_ball_baseline.mp4" width="220" controls muted loop playsinline></video></td>
-<td><video src="./assets/showcase/video/helios/dog_snatches_ball_ours.mp4" width="220" controls muted loop playsinline></video></td>
+<td><a href="./assets/showcase/video/helios/dog_snatches_ball_baseline.mp4"><img src="./assets/showcase/gif/helios/dog_snatches_ball_baseline.gif" width="220"></a></td>
+<td><a href="./assets/showcase/video/helios/dog_snatches_ball_ours.mp4"><img src="./assets/showcase/gif/helios/dog_snatches_ball_ours.gif" width="220"></a></td>
 </tr>
 </tbody>
 </table>
